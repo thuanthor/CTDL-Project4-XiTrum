@@ -1,0 +1,8 @@
+A001|Ao thun nam|Viet Nam|Den|150000|10/10/2026|50
+A002|Quan jean nu|Viet Nam|Xanh|350000|15/10/2026|30
+B001|Giay the thao|Trung Quoc|Trang|650000|01/11/2026|20
+B002|Dep sandal|Thai Lan|Nau|220000|05/11/2026|0
+C001|Balo laptop|Viet Nam|Xam|480000|20/09/2026|15
+C002|Non luoi trai|Han Quoc|Do|120000|25/10/2026|40
+D001|Dong ho nam|Nhat Ban|Bac|1850000|12/08/2026|8
+D002|Tui xach nu|Y|Hong|950000|30/09/2026|12
