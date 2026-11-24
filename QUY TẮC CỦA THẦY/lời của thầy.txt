@@ -1,8 +1,0 @@
-Thông báo v/v thực hiện Project
-Các nhóm download project tương ứng đã bốc thăm để bắt đầu thực hiện
-
-Lưu ý:
-
-- Project phải được cài đặt theo hướng đối tượng và template (2đ), làm theo hướng khác sẽ bị trừ 2 điểm
-
-- Project phải tuân thủ C++ Coding Standard (1đ), nếu không sẽ bị trừ 1điểm

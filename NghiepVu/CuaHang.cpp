@@ -14,8 +14,8 @@
 using namespace std;
 
 CuaHang::CuaHang()
-    : _strFileHangHoa("HangHoa.txt"), _strFileDonHang("DonHang.txt"),
-      _strFileAdmin("Admin.txt"), _iSoDonTiepTheo(1)
+    : _strFileHangHoa("DuLieu/HangHoa.txt"), _strFileDonHang("DuLieu/DonHang.txt"),
+      _strFileAdmin("DuLieu/Admin.txt"), _iSoDonTiepTheo(1)
 {
 }
 

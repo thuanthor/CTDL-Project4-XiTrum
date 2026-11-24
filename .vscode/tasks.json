@@ -11,12 +11,21 @@
                 "-Wextra",
                 "-fdiagnostics-color=always",
                 "-g",
-                "${fileDirname}\\*.cpp",
+                "-I${workspaceFolder}/CauTrucDuLieu",
+                "-I${workspaceFolder}/DoiTuong",
+                "-I${workspaceFolder}/TienIch",
+                "-I${workspaceFolder}/GiaoDien",
+                "-I${workspaceFolder}/NghiepVu",
+                "${workspaceFolder}/main.cpp",
+                "${workspaceFolder}/DoiTuong/*.cpp",
+                "${workspaceFolder}/TienIch/*.cpp",
+                "${workspaceFolder}/GiaoDien/*.cpp",
+                "${workspaceFolder}/NghiepVu/*.cpp",
                 "-o",
-                "${fileDirname}\\main.exe"
+                "${workspaceFolder}/main.exe"
             ],
             "options": {
-                "cwd": "${fileDirname}"
+                "cwd": "${workspaceFolder}"
             },
             "problemMatcher": [
                 "$gcc"

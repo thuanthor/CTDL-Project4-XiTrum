@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/CauTrucDuLieu",
+                "${workspaceFolder}/DoiTuong",
+                "${workspaceFolder}/TienIch",
+                "${workspaceFolder}/GiaoDien",
+                "${workspaceFolder}/NghiepVu"
+            ],
+            "compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
